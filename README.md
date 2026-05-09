@@ -38,6 +38,7 @@ Source: https://medmnist.com/
 - GPU memory usage
 
 ## Repository Structure
+```
 .
 ├── README.md
 ├── requirements.txt
@@ -47,6 +48,7 @@ Source: https://medmnist.com/
 ├── src/ # source code
 ├── reports/ # weekly reports and final report
 └── results/ # experiment outputs
+```
 
 ## Setup Instructions
 1. Clone this repository:
