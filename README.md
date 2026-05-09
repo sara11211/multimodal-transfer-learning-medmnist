@@ -37,17 +37,16 @@ Source: https://medmnist.com/
 - Training time
 - GPU memory usage
 
-```markdown
 ## Repository Structure
-
-- `README.md`
-- `requirements.txt`
-- `.gitignore`
-- `data/` - datasets
-- `notebooks/` - Jupyter notebooks for EDA and analysis
-- `src/` - source code
-- `reports/` - weekly reports and final report
-- `results/` - experiment outputs
+.
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── data/ # datasets
+├── notebooks/ # Jupyter notebooks for EDA and analysis
+├── src/ # source code
+├── reports/ # weekly reports and final report
+└── results/ # experiment outputs
 
 ## Setup Instructions
 1. Clone this repository:
